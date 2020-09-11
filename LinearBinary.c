@@ -12,7 +12,7 @@ int main(){
     int number, iter =0, find;
     int* Arr;
     int s[number];
-    printf("18BCB0087\n\n");
+    printf("Done by Maitreyee\n\n");
     Arr = (int *)malloc( number * sizeof(int));
     scanf("%d", &number);
     for(; iter<number; iter++){
