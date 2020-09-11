@@ -14,7 +14,7 @@ int main ( int argc, char *argv[] )
   int n_hi = 131072;
   int n_lo = 1;
   double t1,t2,t3;
-  printf ( "18BCB0087\n" );
+  printf ( "Done by Maitreyee\n" );
   printf ( "         n      Pi(n)    Guided Time   Static Time   Dynamic Time\n" );
   printf ( "\n" );
   n = n_lo;
