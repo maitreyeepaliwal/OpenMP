@@ -11,7 +11,7 @@ int i, tid, len=LEN, threads=NUMTHREADS;
 double *a, *b;
 double sum, psum;
 
-printf("18BCB0087\n\n");
+printf("Done by Maitreyee\n\n");
 printf("%d threads used \n",threads);
 a = (double*) malloc (len*threads*sizeof(double));
 b = (double*) malloc (len*threads*sizeof(double));
