@@ -57,7 +57,7 @@ void print(int a[], int n)
 int main()
 {
 	int n;
-	printf("18BCB0087 \n\n");
+	printf("Done by Maitreyee\n\n");
 	double t1,t2;
 	t1 = omp_get_wtime ( );
 	printf("Enter the number of random numbers required: ");
